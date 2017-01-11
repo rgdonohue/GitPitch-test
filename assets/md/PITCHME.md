@@ -4,7 +4,7 @@
 
 >Map or be mapped, or web map.
 >
->             - me
+>_some dude_
 
 ## Steps:
 
@@ -27,3 +27,11 @@ if(mug) {
   mug = mug + '!';
 }
 ```
+
+#HSLIDE
+
+- Java
+- JavaScript <!-- .element: class="fragment" -->
+- Kotlin     <!-- .element: class="fragment" -->
+- Go         <!-- .element: class="fragment" -->
+- Scala      <!-- .element: class="fragment" -->
